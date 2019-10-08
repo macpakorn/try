@@ -1,2 +1,2 @@
-# try
-web source project for pythonanywhere
+# pythonanywhere
+web djaango web source
